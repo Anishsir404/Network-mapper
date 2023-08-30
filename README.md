@@ -1,0 +1,2 @@
+# Network-mapper
+The software presented herein is a graphical user interface (GUI) application developed using the Python programming language. Its primary functionality involves accepting a subnet as user input, thereafter conducting a scan of said subnet to identify active hosts. Following this, the program proceeds to perform a port scan to identify open ports and associated services. The resulting information is then stored in a file for further reference.
